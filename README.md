@@ -4,3 +4,4 @@
 
 - [2022 - 28/50 stars](https://github.com/kkiaune/advent-of-code/tree/main/2022)
 - [2024 - 6/50 stars](https://github.com/kkiaune/advent-of-code/tree/main/2024)
+- [2025 - 24/24 stars](https://github.com/kkiaune/advent-of-code/tree/main/2025)
