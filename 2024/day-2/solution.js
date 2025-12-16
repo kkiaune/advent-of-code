@@ -1,5 +1,4 @@
 const fs = require("fs");
-// let input = fs.readFileSync("test.txt", "utf-8");
 let input = fs.readFileSync("input.txt", "utf-8");
 input = input.split(/\r?\n/).map((row) => row.split(/\s+/).map(Number));
 

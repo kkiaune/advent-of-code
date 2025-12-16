@@ -1,7 +1,6 @@
 const fs = require("fs");
 const nerdamer = require("nerdamer");
 require("nerdamer/Solve");
-// let list = fs.readFileSync("example.txt", "utf-8");
 let list = fs.readFileSync("input.txt", "utf-8");
 list = list.split(/\r?\n/);
 
